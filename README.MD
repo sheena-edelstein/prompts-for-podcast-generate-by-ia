@@ -18,9 +18,7 @@
 </a>
 </p>
 
-<p align="center">
-    preview do podcast
-</p>
+
 
 <div align="center">
     <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
@@ -29,11 +27,14 @@
 # Projeto Podcast Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido no bootcamp da [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
+<a href="https://github.com/sheena-edelstein/prompts-for-podcast-generate-by-ia/blob/main/output/ElevenLabs_2024-07-29T01_17_19_A1_pvc_s100_sb80_se85_b_m2.mp4" title="View PDF now"> 📕Clique aqui para ouvir (video)</a>
+
+<a href="https://github.com/sheena-edelstein/prompts-for-podcast-generate-by-ia/blob/main/output/ElevenLabs_2024-07-29T01_17_19_A1_pvc_s100_sb80_se85_b_m2%20(1).mp3" title="View PDF now"> 📕Clique aqui para ouvir(áudio)</a>
+
 
 ## 💻 Tecnologias utilizadas no projeto
 
