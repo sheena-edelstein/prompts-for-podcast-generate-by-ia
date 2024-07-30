@@ -29,7 +29,7 @@
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido no bootcamp da [DIO](https://dio.me)
 
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
+Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhados.
 
 <a href="https://github.com/sheena-edelstein/prompts-for-podcast-generate-by-ia/blob/main/output/ElevenLabs_2024-07-29T01_17_19_A1_pvc_s100_sb80_se85_b_m2.mp4" title="View PDF now"> 📕Clique aqui para ouvir (video com a capa)</a>
 
