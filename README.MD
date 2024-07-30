@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="https://github.com/sheena-edelstein/prompts-for-podcast-generate-by-ia/blob/main/assets/_b2c82d7a-1fa4-48e8-8ed0-96c7e84e03c9.jfif"
     width="300"
 />
 </p>
