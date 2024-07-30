@@ -31,30 +31,29 @@
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
-<a href="https://github.com/sheena-edelstein/prompts-for-podcast-generate-by-ia/blob/main/output/ElevenLabs_2024-07-29T01_17_19_A1_pvc_s100_sb80_se85_b_m2.mp4" title="View PDF now"> 📕Clique aqui para ouvir (video)</a>
+<a href="https://github.com/sheena-edelstein/prompts-for-podcast-generate-by-ia/blob/main/output/ElevenLabs_2024-07-29T01_17_19_A1_pvc_s100_sb80_se85_b_m2.mp4" title="View PDF now"> 📕Clique aqui para ouvir (video com a capa)</a>
 
-<a href="https://github.com/sheena-edelstein/prompts-for-podcast-generate-by-ia/blob/main/output/ElevenLabs_2024-07-29T01_17_19_A1_pvc_s100_sb80_se85_b_m2%20(1).mp3" title="View PDF now"> 📕Clique aqui para ouvir(áudio)</a>
+<a href="https://github.com/sheena-edelstein/prompts-for-podcast-generate-by-ia/blob/main/output/ElevenLabs_2024-07-29T01_17_19_A1_pvc_s100_sb80_se85_b_m2%20(1).mp3" title="View PDF now"> 📕Clique aqui para ouvir (apenas áudio)</a>
 
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Copilot](https://copilot.microsoft.com/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
-- [Capcut](https://www.capcut.com/pt-br/)
+- [Veed.io](https://www.veed.io/)
 
 ## ✨ Como foi feito ?
 
 - Roteiro gerado via chatgpt
 - Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
-- Capcut para tratar aúdio e adicionar sons de fundo
+- Copilot para gerar capas
+- Veed.io para adicionar sons de fundo
 
 ## 📚 Materiais
 
-- [Link da live no Youtube](https://www.youtube.com)
 - [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
-- [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
+- [Editor de aúdio](https://www.veed.io/)
 
 
 ## 🛠️ Instruções de execução
