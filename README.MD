@@ -45,24 +45,47 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 
 ## ✨ Como foi feito ?
 
-- Roteiro gerado via chatgpt
-- Audio gerado pela elevenLabs
+- Roteiro gerado via ChatGPT
+Prompt: Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de tecnologia, focado em machine learning cujo o nome é "Cavaleiros do Algoritmo: A Saga dos Dados" e tem foco em machine learning, com o público alvo de iniciantes em programação.
+
+O formato do roteiro deve ser
+[INTRODUÇÃO]
+[CURIOSIDADE 1]
+[CURIOSIDADE 2]
+[FINALIZAÇÃO]
+
+{REGRAS}
+- No bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal 'Ciência Todo Dia', como se fossem escritos pelo Pedro Emílio 
+- no bloco [CURIOSIDADE 1] substitua por uma curiosidade de IA e Machine Learning
+- no bloco [CURIOSIDADE 2] sobre ferramentas para Machine Learning
+- no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou o Grande Mestre e esse foi o insight dessa semana'
+- use termos de fácil explicação
+- O podcast vai ser apresentado somente por uma pessoa, chamada Grande Mestre
+- O podcast deve ser curto
+
+{REGRAS NEGATIVAS}
+- Não use muitos termos técnicos
+- Não ultrapasse 5 minutos de duração
+
 - Copilot para gerar capas
+Prompt: gold saint from saint seiya as podcaster with microphone, retro style, isometric, cube, game style, low resolution, down angle , game boy colors, 8 bits, retro sprites with constellation background
+
+- Audio gerado pela ElevenLabs
 - Veed.io para adicionar sons de fundo
 
 ## 📚 Materiais
 
 - [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
 - [Editor de aúdio](https://www.veed.io/)
-
+- [Roteiro do Podcast](https://github.com/sheena-edelstein/prompts-for-podcast-generate-by-ia/blob/main/assets/Roteiro%20do%20Podcast.pdf)
 
 ## 🛠️ Instruções de execução
 
 Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
 
-- 🤖 1. Use os prompts de roteiro no `chagpt`
+- 🤖 1. Use os prompts de roteiro no `ChatGPT`
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
+- 🤖 3. Use os prompts de artes no `Copilot`
 
 ## 👨‍💻 Expert
 
